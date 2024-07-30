@@ -1,0 +1,14 @@
+.imgContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+.imgContainer img{
+  width: 80%;
+}
